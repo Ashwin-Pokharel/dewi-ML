@@ -1,0 +1,8 @@
+./venv
+/venv
+
+./pycache
+/pycache
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
